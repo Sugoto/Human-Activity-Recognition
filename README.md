@@ -30,7 +30,9 @@ This implementataion used a deep learning approach for classification using a Co
 The notebook provided in the repository contains code for performing human activity recognition (HAR) classification using machine learning. It includes code for loading and preprocessing the dataset, as well as implementing and evaluating various machine learning models for classification. The notebook can be executed in a Colab environment, and allows for modification and experimentation with different models and parameters.
 
 ## Results 📈🔍
-Our final model achieved an accuracy of 95% on the testing set, which is a promising result for human activity recognition using sensor data from a smartphone.
+For Approach 1, we evaluated several machine learning models on the task of human activity recognition using sensor data from a smartphone. The best performing model was SVM with a score of `95.046%`, followed closely by GBM and ET with scores of 93.926%. RF, KNN, BAG, CART, and Bayes achieved scores of 92.365%, 90.329%, 89.752%, 84.730%, and 77.027%, respectively.
+
+For Approach 2, we used a deep learning model called Long Short-Term Memory (LSTM) to perform human activity recognition using sensor data from a smartphone. We achieved an accuracy of `96.438%` on the testing set, indicating that LSTM is a promising approach for this task.
 
 ## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
