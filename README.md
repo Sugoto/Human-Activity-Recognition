@@ -4,6 +4,8 @@ This repository contains code and documentation for a project on human activity 
 ## Dataset 📊📈
 We used the publicly available Human Activity Recognition with Smartphones (HAR) dataset from the `UCI Machine Learning Repository`. You can access the dataset from this [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) and the repository from this [link](https://archive.ics.uci.edu/ml/index.php).
 
+We also used the newly released [HAR70+](https://archive-beta.ics.uci.edu/dataset/780/har70) dataset, also from UCI, which was tailored towards older-adult subjects (70-95 years old).
+
 ## Approach 1: Simple ML models 🧬🔍🤖
 This implementation employs a basic approach to machine learning for recognizing human activities. The process comprises several stages, including data preprocessing, model selection, model evaluation, and results summary.
 
