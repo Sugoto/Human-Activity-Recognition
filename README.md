@@ -34,7 +34,7 @@ The notebook provided in the repository contains code for performing human activ
 ## Results 📈🔍
 For Approach 1, we evaluated several machine learning models on the task of human activity recognition using sensor data from a smartphone. The best performing model was SVM with a score of `95.046%`, followed closely by GBM and ET with scores of 93.926%. RF, KNN, BAG, CART, and Bayes achieved scores of 92.365%, 90.329%, 89.752%, 84.730%, and 77.027%, respectively.
 
-For Approach 2, we used a deep learning model called Long Short-Term Memory (LSTM) to perform human activity recognition using sensor data from a smartphone. We achieved an accuracy of `97.497%` on the testing set, indicating that LSTM is a promising approach for this task.
+For Approach 2, we used a deep learning model called Long Short-Term Memory (LSTM) to perform human activity recognition using sensor data from a smartphone. We achieved an accuracy of `98.097%` on the testing set, indicating that LSTM is a promising approach for this task.
 
 ## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
